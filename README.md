@@ -47,7 +47,7 @@ This is a website by Fender Guitars where people can learn how to play Acoustic 
 
 ![fender play desktop home site menu](Screen%20Shot%202022-04-05%20at%2010.02.08%20PM.png)
 
-![fender play desktop lesson site]()
+![fender play desktop lesson site](Screen%20Shot%202022-04-06%20at%209.27.27%20AM.png)
 
 ### Overall Evaluation
 
