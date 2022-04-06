@@ -20,4 +20,4 @@ The musictheory.net (Mobile Website) is the Mobile version you see of musictheor
 
 Heuristic & Description | musictheory.net Heuristic Evaluation | Improvement 
 --------------------------|---------------------------|------------
-**#1 Visibility of System Status**: The website/app gives users updates on what they are doing on the website/app. E.g. (Progress bar) | **Bad**: The Website (not only mobile) doesn't show any progression stats. | **Improvement**: Add some sort of progress bar within each lesson showing how many more activities you have to get through before you are done or just a empty bar that fills up a percentage based off how much you've completed of the lesson.
+**#1 Visibility of System Status**: The website/app gives users updates on what they are doing on the website/app. E.g. (Progress bar) | **Bad**: The Website (not only mobile) doesn't show any progression stats. | **Improvement**: Add a progress bar within each lesson showing how many more activities you have to get through before you are done or just a empty bar that fills up a percentage based off how much you've completed of the lesson.
