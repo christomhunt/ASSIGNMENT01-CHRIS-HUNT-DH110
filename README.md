@@ -14,6 +14,10 @@ This is a website where people can learn the basics of music theory.
 
 ![music theory mobile home site](IMG_1839.PNG)
 
+![music theory mobile lesson site](IMG_1840.PNG)
+
+![music theory mobile lesson 2 site](IMG_1841.PNG)
+
 ### Overall Evaluation
 
 The musictheory.net (Mobile Website) is the Mobile version you see of musictheory.net when you access it from a phone. In my case I am accessing it from an iPhone 11 (non-pro). They also have a Desktop Version of the website which you can see when you access from a laptop or computer or a device with a big enough screen that the website will scale properly. The Mobile Website is missing a lot of usability that the Desktop Version has as well as some other things that both the Mobile and Desktop version can benefit from. The reason I am targeting the Mobile Website when they have an app avalible for the same thing is that the Websites are free on Mobile and Desktop they are free services anyone can use and take advantage of but the mobile app you have to pay money to access. So if someone wants to use musictheory.net on the Mobile device then they will realize very quickly that the Desktop Version is superior even with the many short comings. My goal is to make the Mobile Website of musictheory.net on par if not better than the Desktop Version because everyone has a phone with them at all times thus if they are able to use musictheory.net efficently free music theory lessons that are user friendly will be accessible at all times.
@@ -44,3 +48,6 @@ This is a website by Fender Guitars where people can learn how to play Acoustic 
 ### Overall Evaluation
 
 The musictheory.net (Mobile Website) is the Mobile version you see of musictheory.net when you access it from a phone. In my case I am accessing it from an iPhone 11 (non-pro). They also have a Desktop Version of the website which you can see when you access from a laptop or computer or a device with a big enough screen that the website will scale properly. The Mobile Website is missing a lot of usability that the Desktop Version has as well as some other things that both the Mobile and Desktop version can benefit from. The reason I am targeting the Mobile Website when they have an app avalible for the same thing is that the Websites are free on Mobile and Desktop they are free services anyone can use and take advantage of but the mobile app you have to pay money to access. So if someone wants to use musictheory.net on the Mobile device then they will realize very quickly that the Desktop Version is superior even with the many short comings. My goal is to make the Mobile Website of musictheory.net on par if not better than the Desktop Version because everyone has a phone with them at all times thus if they are able to use musictheory.net efficently free music theory lessons that are user friendly will be accessible at all times.
+
+Heuristic & Description | musictheory.net Heuristic Evaluation | Improvement | Severity Rating 
+--------------------------|---------------------------|------------|------------
