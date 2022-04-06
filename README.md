@@ -28,8 +28,19 @@ Heuristic & Description | musictheory.net Heuristic Evaluation | Improvement | S
 **#6 Recognition rather than recall**: The website/app putting stuff in the same place and making it perform the same action as it always has. | **Bad**:  The Website (both Mobile and Desktop) don’t do a good job of putting stuff in the same spots it was prior even though the space is available and it wouldn't hurt the UI of the webpage. When you are in a lesson on (both Mobile and Desktop) the header of the page that used to have the list of items (e.g. Lessons, Exercises, Tools, Products, News, Contact) is gone now users are expected to recognize the new symbol the home button to get you back to where you were before the lesson and see that header. | **Improvements**: Keep the header the same from the homepage and Lessons page when you are inside of the lessons instead of changing it to something completely new. You can also keep the current format by just inserting the header above it. | 2 Important to fix.
 **#7 Flexibility and efficiency of use**: The website/app offers a tailored experience for different levels of users. | **Good**: The Website (both Mobile and Desktop) offer a really good experience for teachers in their ability to customize the exercises and thus send them to their students and have them do it. Being a free website I wasn’t expecting this level of customization but it’s a welcomed addition because it expands its target audience. | **Improvements**: No Improvements really needed. | 0 No need to consider changes to this as of now.
 **#8 Aesthetic and minimalist design**: The website/app has information it needs and nothing else, especially stuff that isn’t relevant. | **Good**: The Website (both Mobile and Desktop) do a really good job of keeping a minimalist design. It’s clear what you’re looking for, not a lot of clutter on your screen, only what you need to know in order to find the right lesson for you. Lesson title and a little bit about what is included in the lesson underneath. | **Improvements**: No Improvements really needed. Would like to experiment with different layouts of the Lessons and see if others are also pleasing to the eye like this one or maybe design it so emphasis is placed on progress and leveling almost like a game. | 0 No priority really, just get to it if you have extra time to mess around with it.
+**#9
+**#10
 
+## Fender Play (Desktop Website)
 
+https://www.fender.com/play/
 
+### Intro
 
+This is a website by Fender Guitars where people can learn how to play Acoustic Guitar, Electric Guitar, Bass, Ukulele
 
+![fender play desktop home site]()
+
+### Overall Evaluation
+
+The musictheory.net (Mobile Website) is the Mobile version you see of musictheory.net when you access it from a phone. In my case I am accessing it from an iPhone 11 (non-pro). They also have a Desktop Version of the website which you can see when you access from a laptop or computer or a device with a big enough screen that the website will scale properly. The Mobile Website is missing a lot of usability that the Desktop Version has as well as some other things that both the Mobile and Desktop version can benefit from. The reason I am targeting the Mobile Website when they have an app avalible for the same thing is that the Websites are free on Mobile and Desktop they are free services anyone can use and take advantage of but the mobile app you have to pay money to access. So if someone wants to use musictheory.net on the Mobile device then they will realize very quickly that the Desktop Version is superior even with the many short comings. My goal is to make the Mobile Website of musictheory.net on par if not better than the Desktop Version because everyone has a phone with them at all times thus if they are able to use musictheory.net efficently free music theory lessons that are user friendly will be accessible at all times.
