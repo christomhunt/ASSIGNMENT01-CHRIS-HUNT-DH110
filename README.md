@@ -16,7 +16,7 @@ This is a website where people can learn the basics of music theory.
 
 ![music theory mobile lesson site](IMG_1840.PNG)
 
-![music theory mobile lesson 2 site](IMG_1841.PNG)
+![music theory mobile lesson 1 site](IMG_1841.PNG)
 
 ### Overall Evaluation
 
@@ -48,6 +48,8 @@ This is a website by Fender Guitars where people can learn how to play Acoustic 
 ![fender play desktop home site menu](Screen%20Shot%202022-04-05%20at%2010.02.08%20PM.png)
 
 ![fender play desktop lesson site](Screen%20Shot%202022-04-06%20at%209.27.27%20AM.png)
+
+![fender play desktop lesson 1 site](Screen%20Shot%202022-04-05%20at%2010.04.14%20PM.png)
 
 ### Overall Evaluation
 
